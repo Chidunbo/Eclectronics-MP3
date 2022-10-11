@@ -2906,7 +2906,7 @@
     (property "Value" "10µF" (id 1) (at 173.99 30.4799 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (id 2) (at 178.7652 25.4 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 178.7652 25.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 177.8 29.21 0)
@@ -2944,7 +2944,7 @@
     (property "Value" "10µF" (id 1) (at 212.09 30.4799 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (id 2) (at 209.2452 33.02 0)
+    (property "Footprint" "Capacitor_SMD:C_0201_0603Metric" (id 2) (at 209.2452 33.02 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 208.28 29.21 0)
@@ -3792,10 +3792,10 @@
       (reference "C11") (unit 1) (value "0.1µF") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/72143c83-9810-4c68-bdb6-6021f1d73d44"
-      (reference "C12") (unit 1) (value "10µF") (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (reference "C12") (unit 1) (value "10µF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/7896dfda-1d9c-4d04-8928-a34570745fb1"
-      (reference "C13") (unit 1) (value "10µF") (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (reference "C13") (unit 1) (value "10µF") (footprint "Capacitor_SMD:C_0201_0603Metric")
     )
     (path "/a4361543-0cee-4944-9d11-d5d7399a6613"
       (reference "D1") (unit 1) (value "LED") (footprint "LED_SMD:LED_0805_2012Metric")
